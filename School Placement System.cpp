@@ -48,11 +48,11 @@ int main()
 
     if (TotalGrade >= 24 && TotalGrade <= 36)
     {
-        SelectedSchool = "Asanteman Senior High School";
+        SelectedSchool = "kukuom Senior High School";
     }
     else if (TotalGrade >= 15 && TotalGrade <= 23)
     {
-        SelectedSchool = "Kumasi Anglican Senior High School";
+        SelectedSchool = "Kumasi Senior High School";
     }
     else if (TotalGrade >= 10 && TotalGrade <= 14)
     {
